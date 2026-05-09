@@ -30,7 +30,7 @@ Looking for a professional web developer for your next project? Let's collaborat
 ### 📫 Let's Connect!
 - 🌍 **Freelance Profile:** [fiverr.com/ege_vural](https://www.fiverr.com/ege_vural)
 - 📍 **Location:** Turkey
-- 🌱 Currently mastering **Advanced CSS Layouts and JavaScript.**
+- 🌱 Currently mastering **Advanced CSS Layouts and Html.**
 
 ---
 
