@@ -34,8 +34,13 @@ Looking for a professional web developer for your next project? Let's collaborat
 
 ---
 
+### 📊 My GitHub Contributions 
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Cerbege&show_icons=true&theme=dark&hide_border=false" alt="Cerbege's GitHub Stats" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cerbege&layout=compact&theme=dark" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Cerbege&theme=dark&hide_border=false" alt="Cerbege's Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Cerbege&theme=dark" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Cerbege&theme=dark" alt="Stats Card" />
 </p>
