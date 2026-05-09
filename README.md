@@ -7,7 +7,7 @@ I specialize in building modern, sleek, and fully responsive web interfaces. My 
 ---
 
 ### 🛠️ My Tech Stack
-- **Languages:** HTML5, CSS3, JavaScript (Learning)
+- **Languages:** HTML5, CSS3
 - **Tools:** VS Code, Git, GitHub
 - **Specialties:** Responsive Web Design, Landing Pages, UI/UX Optimization, CSS Animations
 
