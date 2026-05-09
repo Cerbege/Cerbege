@@ -35,5 +35,7 @@ Looking for a professional web developer for your next project? Let's collaborat
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Cerbege&show_icons=true&theme=radical" alt="Cerbege's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Cerbege&show_icons=true&theme=dark&hide_border=false" alt="Cerbege's GitHub Stats" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cerbege&layout=compact&theme=dark" alt="Top Languages" />
 </p>
