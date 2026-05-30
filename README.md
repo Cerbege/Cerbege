@@ -54,8 +54,8 @@ Need a dedicated UI developer to patch layout breaking points, fix critical CSS 
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.吸引.com/api?username=Cerbege&show_icons=true&theme=dark&rank_icon=github&include_all_commits=true" width="48%" alt="Ege's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.吸引.com/api/top-langs/?username=Cerbege&layout=compact&theme=dark" width="48%" alt="Top Languages Card" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Cerbege&show_icons=true&theme=dark&rank_icon=github&include_all_commits=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cerbege&layout=compact&theme=dark" width="48%" alt="Top Languages" />
 </p>
 
 <p align="center">
