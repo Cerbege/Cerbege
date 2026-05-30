@@ -40,19 +40,6 @@ Need a dedicated UI developer to patch layout breaking points, fix critical CSS 
 ### 📫 Let's Connect
 
 * 💼 **Freelance Platforms:**
-*  [Fiverr Profile](https://www.fiverr.com/ege_vural)
-*  [Upwork Profile](https://www.upwork.com/freelancers/~015e437722ae41d43c)
-* ⚡ **Focus:** Optimizing rendering paths, refactoring legacy CSS layout code, and creating modern dark-themed aesthetics.
-
----
-
-### 📊 Git Metaphor & Execution Analytics
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Cerbege&theme=dark&hide_border=false" alt="Cerbege's Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Cerbege&theme=dark" width="48%" alt="Top Languages" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Cerbege&theme=dark" width="48%" alt="Stats Card" />
-</p>
+* [Fiverr Profile](https://www.fiverr.com/ege_vural)
+* [Upwork Profile](https://www.upwork.com/freelancers/~015e437722ae41d43c)
+* ⚡ **Focus:** Optimizing rendering paths, ref
