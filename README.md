@@ -46,16 +46,16 @@ Need a dedicated UI developer to patch layout breaking points, fix critical CSS 
 
 ---
 
-### 📊 Git Metaphor & Execution Analytics
+### 📊 Git Metaphor & Tech Stack Analytics
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Cerbege&theme=dark&hide_border=false" alt="Cerbege's Streak" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Profile-Active-100000?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3_Architect-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript_Vanilla-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git_Version_Control-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
