@@ -53,6 +53,9 @@ Need a dedicated UI developer to patch layout breaking points, fix critical CSS 
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-eight.vercel.app/api?username=Cerbege&show_icons=true&theme=dark&include_all_commits=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-eight.vercel.app/api/top-langs/?username=Cerbege&layout=compact&theme=dark" width="48%" alt="Top Languages" />
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
