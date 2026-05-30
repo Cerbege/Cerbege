@@ -1,4 +1,3 @@
-Markdown
 # Hi there, I'm Ege Vural! 👋
 
 ### 🏛️ Frontend Developer & UI Specialist
@@ -54,11 +53,6 @@ Need a dedicated UI developer to patch layout breaking points, fix critical CSS 
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Cerbege&show_icons=true&theme=dark&rank_icon=github&include_all_commits=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cerbege&layout=compact&theme=dark" width="48%" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Cerbege&theme=dark" width="48%" alt="Most Commit Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Cerbege&theme=dark" width="48%" alt="Profile Summary Stats" />
+  <img src="https://github-readme-stats-eight.vercel.app/api?username=Cerbege&show_icons=true&theme=dark&include_all_commits=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-eight.vercel.app/api/top-langs/?username=Cerbege&layout=compact&theme=dark" width="48%" alt="Top Languages" />
 </p>
