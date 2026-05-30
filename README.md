@@ -32,6 +32,7 @@ A modern, highly production-ready web layout engineered for food delivery and re
 Need a dedicated UI developer to patch layout breaking points, fix critical CSS bugs, or build a bespoke landing page from absolute scratch? Let's deploy your next interface.
 
 [![Fiverr](https://img.shields.io/badge/Fiverr-Hire%20Me-00b22d?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/ege_vural)
+<br>
 [![Upwork](https://img.shields.io/badge/Upwork-Hire%20Me-14a800?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~015e437722ae41d43c)
 
 ---
@@ -41,7 +42,6 @@ Need a dedicated UI developer to patch layout breaking points, fix critical CSS 
 * 💼 **Freelance Platforms:**
 *  [Fiverr Profile](https://www.fiverr.com/ege_vural)
 *  [Upwork Profile](https://www.upwork.com/freelancers/~015e437722ae41d43c)
-*  
 * ⚡ **Focus:** Optimizing rendering paths, refactoring legacy CSS layout code, and creating modern dark-themed aesthetics.
 
 ---
