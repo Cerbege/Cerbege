@@ -1,46 +1,51 @@
-# Hi there, I'm Ege! 👋
+# Hi there, I'm Ege Vural! 👋
 
-### 🚀 Frontend Developer & Creative Web Designer
+### 🏛️ Frontend Developer & UI Specialist
 
-I specialize in building modern, sleek, and fully responsive web interfaces. My focus is on writing clean, maintainable code while delivering high-quality user experiences.
-
----
-
-### 🛠️ My Tech Stack
-- **Languages:** HTML5, CSS3
-- **Tools:** VS Code, Git, GitHub
-- **Specialties:** Responsive Web Design, Landing Pages, UI/UX Optimization, CSS Animations
+Focused on engineering lightweight, high-performance, and pixel-perfect web interfaces. I specialize in turning complex layouts into clean, semantic code with an absolute emphasis on mobile responsiveness and strict CSS layout alignment.
 
 ---
 
-### 💼 Freelance Services
-Looking for a professional web developer for your next project? Let's collaborate via Fiverr:
+### 🛠️ Core Expertise
 
-[![Fiverr](https://img.shields.io/badge/Fiverr-Hire%20Me-green?style=for-the-badge&logo=fiverr)](https://www.fiverr.com/ege_vural)
-
----
-
-### 📂 Featured Projects
-- **[CerBurger](https://github.com/Cerbege/cerburger-landing-page):** A modern, responsive landing page for a restaurant brand.
-- **[CerExplorer](https://github.com/Cerbege/cerexplorer-landing-page):** Wildlife and nature exploration site with mobile-first design.
-- **[ProBody Gym](https://github.com/Cerbege/pro-body-gym-landing):** High-energy fitness landing page featuring advanced CSS layouts.
+* **Core Tech:** Semantic HTML5, Modern CSS3 (Grid, Flexbox, Custom Properties)
+* **Specialties:** Cross-Browser Mobile Responsiveness, Advanced CSS Bug Fixing, Structural Layout Alignment, UI/UX Optimization
+* **Workflow & Environment:** Visual Studio Code, Git, Enterprise GitHub Workflows
 
 ---
 
-### 📫 Let's Connect!
-- 🌍 **Freelance Profile:** [fiverr.com/ege_vural](https://www.fiverr.com/ege_vural)
-- 📍 **Location:** Turkey
-- 🌱 Currently mastering **Advanced CSS Layouts and Html.**
+### 📂 Featured Production Repositories
+
+#### 🏛️ [The Three Graces — Fine Art Exhibition Showcase](https://github.com/Cerbege/the-three-graces-exhibition)
+A premium, dark-aesthetic museum landing page featuring a bespoke layout grid and fluid responsive typography. Built strictly with vanilla performance mechanics—zero external heavy rendering frameworks.
+
+#### 🍔 [CerBurger — Responsive Brand Landing Page](https://github.com/Cerbege/cerburger-landing-page)
+A modern, highly production-ready web layout engineered for food delivery and restaurant ecosystems. Features clean, inclusive component structures and precise media breakpoint handling.
 
 ---
 
-### 📊 My GitHub Contributions 
+### 💼 Open for Select Freelance Commissions
+
+Need a dedicated UI developer to patch layout breaking points, fix critical CSS bugs, or build a bespoke landing page from absolute scratch? Let's deploy your next interface.
+
+[![Fiverr](https://img.shields.io/badge/Fiverr-Hire%20Me-00b22d?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/ege_vural)
+
+---
+
+### 📫 Let's Connect
+
+* 💼 **Freelance Inquiries:** [fiverr.com/ege_vural](https://www.fiverr.com/ege_vural)
+* ⚡ **Focus:** Optimizing rendering paths, refactoring legacy CSS layout code, and creating modern dark-themed aesthetics.
+
+---
+
+### 📊 Git Metaphor & Execution Analytics
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Cerbege&theme=dark&hide_border=false" alt="Cerbege's Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Cerbege&theme=dark" alt="Top Languages" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Cerbege&theme=dark" alt="Stats Card" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Cerbege&theme=dark" width="48%" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Cerbege&theme=dark" width="48%" alt="Stats Card" />
 </p>
